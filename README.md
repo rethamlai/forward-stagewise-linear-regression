@@ -1,2 +1,2 @@
-# forward-stagewise-linear-regression
-R code to estimate parameters using forward stagewise linear regression
+# Forward Stagewise Linear Regression
+Function in R to estimate parameters using forward stagewise linear regression
